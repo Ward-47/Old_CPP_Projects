@@ -1,0 +1,6 @@
+The file Bubble was sorted via the bubble sort
+The amount of swaps performed: 0
+The amount of integers: 0
+
+Sorted list: 
+
